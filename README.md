@@ -1,4 +1,4 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Hyebit's%20GitHub%20🌿&animation=twinkling&fontSize=35&fontAlignY=40&height=250)
 
 <!--
 **Hyeji-Jo/Hyeji-Jo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
