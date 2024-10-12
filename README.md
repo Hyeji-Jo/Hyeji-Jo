@@ -19,4 +19,35 @@
 <br>
 
 ## 📝 Notion's log 📝
-<a href="https://www.notion.so/hyebitstory/9ae0999172b94f54958f998d5a72540d?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+ <a href="https://www.notion.so/hyebitstory/9ae0999172b94f54958f998d5a72540d?pvs=4" target="_blank">
+   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+
+
+## 💪 Experience 💪
+- 공공 빅데이터 분석 일 경험 수련생 (서울특별시 학교안전공제회 빅데이터 인턴) _(2021.09~2021.12)_
+- '서울시 복지 불균형 완화를 위한 노인복지시설 종류별 최적 입지 분석' - 데이턴십 해커톤 제4회 참여 _(2021)_
+- 관광기업 데이터 분석 인턴 _(2020.08~2020.09)_
+- '경륜 데이터를 활용한 경륜 선수 분석 플랫폼' - 체육종합 데이터 활용 경진대회 참여 _(2020)_
+- '유동인구에 따른 전기차 충전소 확충 및 개선' - 데이터 활용 아이디어 공모전 본선 진출 _(2020)_
+- 통계재능기부단 활동 _(2019.03~2019.11)_
+
+<br>
+
+## 💻 Project 💻
+
+
+<br>
+
+## 🏆 Award 🏆
+
+🥉 [2022 한국소프트웨어종합학술대회 학부생/주니어 논문 장려상] *2023.02.09, 한국소프트웨어종합학술대회*
+<br> &nbsp; &nbsp; 
+
+🏅 [최우등 졸업상] *2022.02.17, 동국대학교*
+<br> &nbsp; &nbsp; 
+
+🏅 [통계교육 재능기부단 슬로건 공모전 최우수상 수상] *2019.11.15, 통계교육원*
+<br> &nbsp; &nbsp; 
+
+
+<br>
