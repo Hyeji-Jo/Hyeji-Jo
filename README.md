@@ -22,7 +22,9 @@
  <a href="https://www.notion.so/hyebitstory/9ae0999172b94f54958f998d5a72540d?pvs=4" target="_blank">
    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
+<br>
 
+  
 ## 💪 Experience 💪
 - 공공 빅데이터 분석 일 경험 수련생 (서울특별시 학교안전공제회 빅데이터 인턴) _(2021.09~2021.12)_
 - '서울시 복지 불균형 완화를 위한 노인복지시설 종류별 최적 입지 분석' - 데이턴십 해커톤 제4회 참여 _(2021)_
@@ -33,11 +35,13 @@
 
 <br>
 
+  
 ## 💻 Project 💻
 
 
 <br>
 
+  
 ## 🏆 Award 🏆
 
 🥉 [2022 한국소프트웨어종합학술대회 학부생/주니어 논문 장려상] *2023.02.09, 한국소프트웨어종합학술대회*
