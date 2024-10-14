@@ -8,13 +8,12 @@
 반갑습니다!👋<br>
 제 이름은 조혜지이고, 닉네임은 Hyebit입니다.<br>
 현재 음성인식을 공부하고 있어요!<br>
-멋진 개발자가 되기 위해 늘 노력중입니다.🏃‍♀️ <br><br>
+멋진 개발자가 되기 위해 늘 노력중입니다.🏃‍♀️ <br><br><br>
+
 
 
 <div align="left">
- 
-
- 
+   
 <!-- [![HYEJI's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeji-Jo&layout=compact&theme=nord&hide_border=true&langs_count=10)](https://github.com/Hyeji-Jo/github-readme-stats) -->
 [![HYEJI's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeji-Jo&theme=solarized-light&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)   
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=johj4112)](https://solved.ac/johj4112) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeji-Jo)
