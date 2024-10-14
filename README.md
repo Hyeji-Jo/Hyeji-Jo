@@ -41,8 +41,15 @@
 
 <br>
 
+## 🔎 Career 👩🏻‍💻
+- EWC - 빅데이터분석 주임연구원(2년 2개월) _(2022.01~2024.02)_
+
+
+<br>
+
   
 ## 💪 Experience 💪
+- 구글 머신러닝 부트캠프 _(2023.09~2023.11)_
 - 공공 빅데이터 분석 일 경험 수련생 (서울특별시 학교안전공제회 빅데이터 인턴) _(2021.09~2021.12)_
 - '서울시 복지 불균형 완화를 위한 노인복지시설 종류별 최적 입지 분석' - 데이턴십 해커톤 제4회 참여 _(2021)_
 - 관광기업 데이터 분석 인턴 _(2020.08~2020.09)_
@@ -73,16 +80,6 @@
 
 <br>
 
-  
-## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-    <a href="https://www.instagram.com/hye._.bit?igsh=eTh5MGVxY25qNTNz&utm_source=qr">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a>
-    <a href="mailto:johj50@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> 
-    </a>
-</div><br>
 
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
@@ -93,3 +90,14 @@
     <br>
 </div><br>
 </div>
+
+
+## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="https://www.instagram.com/hye._.bit?igsh=eTh5MGVxY25qNTNz&utm_source=qr">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
+    <a href="mailto:johj50@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> 
+    </a>
+</div><br>
