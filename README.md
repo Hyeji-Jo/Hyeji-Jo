@@ -76,7 +76,7 @@
   
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
-    <a href="https://www.instagram.com/6_o777/">
+    <a href="https://www.instagram.com/hye._.bit?igsh=eTh5MGVxY25qNTNz&utm_source=qr">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
     <a href="mailto:johj50@gmail.com">
