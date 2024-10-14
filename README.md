@@ -7,8 +7,9 @@
 <div align="center">
   <p align="center">
     
-  <div align=center>
-    <h2>🤗 Introduction</h2>
+  <div align=left>
+    <h2>🤗 Introduction</h2></div>
+    <div align="center">
     <p>반갑습니다 👋 </p>
     <span> 제 이름은 조혜지이고, 닉네임은 Hyebit입니다.</span>
     <br>
