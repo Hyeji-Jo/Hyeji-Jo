@@ -62,7 +62,7 @@
 ## 🏆 Award 🏆
 
 🥉 [2022 한국소프트웨어종합학술대회 학부생/주니어 논문 장려상] *2023.02.09, 한국소프트웨어종합학술대회*
-<br> &nbsp; &nbsp; 
+<br> &nbsp; &nbsp; CartoonFaceGAN : StyleGAN2-ADA 기반의 Layer Swap 및 Distillation을 활용한 Cartoon Face Generation 연구
 
 🏅 [최우등 졸업상] *2022.02.17, 동국대학교*
 <br> &nbsp; &nbsp; 
