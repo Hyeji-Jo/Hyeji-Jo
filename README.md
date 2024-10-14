@@ -1,12 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Hyebit's%20GitHub%20🌿%20&desc=Hye%20Ji%20Jo&&fontSize=35&fontAlignY=40&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Hyebit's%20GitHub%20🌿%20&desc=Hye%20Ji%20Jo&&fontSize=35&fontAlignY=40&height=250)<br>
 
 
 <div align="left">
  
-반갑습니다!👋
-제 이름은 조혜지이고, 닉네임은 Hyebit입니다.
-현재 음성인식을 공부하고 있어요!
-멋진 개발자가 되기 위해 늘 노력중입니다.🏃‍♀️ 
+반갑습니다!👋<br>
+제 이름은 조혜지이고, 닉네임은 Hyebit입니다.<br>
+현재 음성인식을 공부하고 있어요!<br>
+멋진 개발자가 되기 위해 늘 노력중입니다.🏃‍♀️ <br><br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyeji-Jo&count_bg=%23F08080&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
  
