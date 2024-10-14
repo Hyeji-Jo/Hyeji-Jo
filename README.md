@@ -35,13 +35,6 @@
  
 <br>
 
-## 📝 Notion's log 📝
- <a href="https://www.notion.so/hyebitstory/9ae0999172b94f54958f998d5a72540d?pvs=4" target="_blank">
-   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>  &nbsp; 👈 ~2023년까지의 포트폴리오<br>  
-   
-
-<br>
-
 ## 🔎 Career 👩🏻‍💻
 - EWC - 빅데이터분석 주임연구원(2년 2개월) _(2022.01~2024.02)_
 
@@ -78,6 +71,14 @@
 🏅 [통계교육 재능기부단 슬로건 공모전 최우수상 수상] *2019.11.15, 통계교육원*
 <br> &nbsp; &nbsp; 
 
+
+<br>
+
+
+## 📝 Notion's log 📝
+ <a href="https://www.notion.so/hyebitstory/9ae0999172b94f54958f998d5a72540d?pvs=4" target="_blank">
+   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>  &nbsp; 👈 ~2023년까지의 포트폴리오<br>  
+   
 
 <br>
 
