@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyeji-Jo&count_bg=%23F08080&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Hyebit's%20GitHub%20🌿%20&desc=Hye%20Ji%20Jo&&fontSize=35&fontAlignY=40&height=250)<br>
 
 
@@ -11,7 +13,7 @@
 
 <div align="left">
  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyeji-Jo&count_bg=%23F08080&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
+
  
 <!-- [![HYEJI's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeji-Jo&layout=compact&theme=nord&hide_border=true&langs_count=10)](https://github.com/Hyeji-Jo/github-readme-stats) -->
 [![HYEJI's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeji-Jo&theme=solarized-light&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)   
