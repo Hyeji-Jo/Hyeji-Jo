@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Hyebit's%20GitHub%20🌿&fontSize=35&fontAlignY=40&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Hyebit's%20GitHub%20🌿%20&desc=Hye%20Ji%20Jo&&fontSize=35&fontAlignY=40&height=250)
 
 
 <div align="left">
@@ -20,7 +20,8 @@
 
 ## 📝 Notion's log 📝
  <a href="https://www.notion.so/hyebitstory/9ae0999172b94f54958f998d5a72540d?pvs=4" target="_blank">
-   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>  
+   
 
 <br>
 
@@ -55,3 +56,4 @@
 
 
 <br>
+
