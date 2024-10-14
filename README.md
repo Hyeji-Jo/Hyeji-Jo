@@ -35,6 +35,7 @@
 <br>
 
 ## 📝 Notion's log 📝
+- 👇 ~2023년까지의 포트폴리오 👇
  <a href="https://www.notion.so/hyebitstory/9ae0999172b94f54958f998d5a72540d?pvs=4" target="_blank">
    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>  
    
@@ -69,7 +70,7 @@
 ## 🏆 Award 🏆
 
 🥉 [2022 한국소프트웨어종합학술대회 학부생/주니어 논문 장려상] *2023.02.09, 한국소프트웨어종합학술대회*
-<br> &nbsp; &nbsp; CartoonFaceGAN : StyleGAN2-ADA 기반의 Layer Swap 및 Distillation을 활용한 Cartoon Face Generation 연구
+<br> &nbsp; &nbsp; &nbsp; CartoonFaceGAN : StyleGAN2-ADA 기반의 Layer Swap 및 Distillation을 활용한 Cartoon Face Generation 연구
 
 🏅 [최우등 졸업상] *2022.02.17, 동국대학교*
 <br> &nbsp; &nbsp; 
