@@ -35,7 +35,7 @@
 <br>
 
 ## 📝 Notion's log 📝
-- 👇 ~2023년까지의 포트폴리오 👇
+- 👇 ~2023년까지의 포트폴리오
  <a href="https://www.notion.so/hyebitstory/9ae0999172b94f54958f998d5a72540d?pvs=4" target="_blank">
    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>  
    
