@@ -3,7 +3,10 @@
 
 <div align="left">
  
- ---
+반갑습니다!👋
+제 이름은 조혜지이고, 닉네임은 Hyebit입니다.
+현재 음성인식을 공부하고 있어요!
+멋진 개발자가 되기 위해 늘 노력중입니다.🏃‍♀️ 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyeji-Jo&count_bg=%23F08080&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
  
