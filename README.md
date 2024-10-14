@@ -8,7 +8,7 @@
   <p align="center">
     
   <div align=left>
-    <h2>🤗 Introduction</h2></div>
+    <h2>🤗  Introduction</h2></div>
     <br>
     <br>
     <div align="center">
@@ -37,7 +37,7 @@
  
 <br>
 
-## 🔎 Career 👩🏻‍💻
+## 🔎  Career  👩🏻‍💻
 | Organization | Role 	| Date |
 |:-----:	|:----------:	|:-----------:|
 | EWC | 빅데이터분석 주임연구원 | `2022.01.03.` ~ `2024.02.28.` |
@@ -46,7 +46,7 @@
 <br>
 
   
-## 💪 Experience 💪
+## 💪  Experience  💪
 | Title | Date  | Etc |
 |:-----:	|:----------:	|:-------:|
 | 구글 머신러닝 부트캠프 | `2023.09.` ~ `2023.11.` | - |
@@ -57,7 +57,7 @@
 <br>
 
   
-## 💻 Project 💻
+## 💻  Project  💻
 | Title | Date  | Etc |
 |:-----:	|:----------:	|:-------:|
 | 서울시 복지 불균형 완화를 위한 노인복지시설 종류별 최적 입지 분석 | `2021` | 데이턴십 해커톤 제4회 참여 |
@@ -66,10 +66,20 @@
 
 
 
+<br>  
+
+
+## 📝  Paper  📝
+| Title | Date  | Organization | Paper |
+|:-----:	|:----------:	|:-------:|:-------:|
+| CartoonFaceGAN: A Study on Cartoon Face Generation Using Layer Swap, Distillation based StyleGAN2-ADA | `2022.04` ~ `2022.06` | - | [paper](https://c11.kr/19ef4) |
+
+
+
 <br>
 
   
-## 🏆 Award 🏆
+## 🏆  Award  🏆
 | Date | Contents 	| Organization | Etc |
 |:-----:	|:----------:	|:-----------:|:-------:|
 | `2023.02.09.` | 🥉 2022 한국소프트웨어종합학술대회 학부생/주니어 논문 장려상 | 한국소프트웨어종합학술대회 | StyleGAN2-ADA 기반의 Layer Swap 및 Distillation을 활용한 Cartoon Face Generation 연구 |
@@ -79,7 +89,7 @@
 <br>
 
 
-## 📝 Notion's log 📝
+## 📚  Notion's log  📚
  <a href="https://www.notion.so/hyebitstory/9ae0999172b94f54958f998d5a72540d?pvs=4" target="_blank">
    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>  &nbsp; 👈 ~2023년까지의 포트폴리오<br>  
    
@@ -87,7 +97,7 @@
 <br>
 
 
-## 🔨 Once I've used 🔨
+## 🔨  Once I've used  🔨
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
@@ -97,7 +107,7 @@
 </div><br>
 
 
-## 📞 Contact 📞
+## 📞  Contact  📞
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.instagram.com/hye._.bit?igsh=eTh5MGVxY25qNTNz&utm_source=qr">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
