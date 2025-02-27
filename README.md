@@ -15,7 +15,7 @@
     <p>반갑습니다 👋 </p>
     <span> 제 이름은 조혜지이고, 닉네임은 Hyebit입니다.</span>
     <br>
-    <span>✔ 현재 음성인식을 공부하고 있어요❗</span>
+    <span>✔ LLM과 Speech Recognition에 관심있어요❗</span>
     <br>
     <span>✔ 멋진 전문가가 되기 위해 늘 노력중입니다.🏃‍♀️</span>
     <br>
