@@ -12,12 +12,12 @@
     <br>
     <br>
     <div align="center">
-    <p>반갑습니다 👋 </p>
-    <span> 제 이름은 조혜지이고, 닉네임은 Hyebit입니다.</span>
+    <p> 안녕하세요 👋 </p>
+    <span> 제 이름은 조혜지(Hyebit)이고, 현재 고려대학교 AI Lab에서 석사과정 중입니다. </span>
     <br>
-    <span>✔ LLM과 Speech Recognition에 관심있어요❗</span>
+    <span> ✔ Speech AI(VC, ASR, TTS) 분야에 관심을 가지고, 관련 공부를 이어가고 있습니다. </span>
     <br>
-    <span>✔ 멋진 전문가가 되기 위해 늘 노력중입니다.🏃‍♀️</span>
+    <span> ✔ AI 연구자로서의 성장을 목표로, 매일 한 걸음씩 나아가고 있습니다. 🚀 </span>
     <br>
  
   </div><br><br><br>
@@ -40,7 +40,7 @@
 ## 🎓 Education 🎓
 | Degree | Major | Institution | Dates | Notes |
 |:--------:|:-------:|:-------------:|:-------:|:-------:|
-| M.S.   | 컴퓨터학과 소프트웨어전공 <br> Software | 고려대학교 <br> Korea University | 2025.09 ~ Present | AI LAB - 육동석 교수님 |
+| M.S.   | 컴퓨터학과 소프트웨어전공 <br> Software | 고려대학교 <br> Korea University | 2025.09 ~ Present | [AI LAB - 육동석 교수님](https://ai.korea.ac.kr/) |
 | B.S.   | 빅데이터 ・ 응용통계학전공 <br> Big Data and Applied Statistics | 동국대학교 <br> Dongguk University | 2018.03 ~ 2022.02 | GPA 4.28 / 4.5 |
 
 
