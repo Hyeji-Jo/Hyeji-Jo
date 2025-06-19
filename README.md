@@ -72,9 +72,9 @@
 
 
 ## 📝  Paper  📝
-| Title |  Date  |  Venue  | Organization | Paper |
-|:-----:|:----------:|:----------:|:-------:|:-------:|
-| CartoonFaceGAN: A Study on Cartoon Face Generation Using Layer Swap, Distillation based StyleGAN2-ADA | `2022.04` ~ `2022.06` | 한국소프트웨어종합학술대회 |  -  | [paper](https://c11.kr/19ef4) |
+| Title |  Date  |  Venue  | Organization | Paper | Etc |
+|:-----:|:----------:|:----------:|:-------:|:-------:|:-------:|
+| CartoonFaceGAN: A Study on Cartoon Face Generation Using Layer Swap, Distillation based StyleGAN2-ADA | `2022.04` ~ `2022.06` | 한국소프트웨어종합학술대회 |  -  | [paper](https://c11.kr/19ef4) | 학부생 부문 장려상 |
 
 
 
