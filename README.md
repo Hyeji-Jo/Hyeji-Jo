@@ -89,10 +89,17 @@
 | `2022.02.17.` | 🏅 최우등 졸업상 | 동국대학교 | - |
 | `2019.11.15.` | 🥉 통계교육 재능기부단 슬로건 공모전 최우수상 | 통계교육원 | - |
 
-<br>
+<br>  
+
+## 📑 Study Log 📑 
+- [기본 개념 공부 ✍🏻](https://github.com/Hyeji-Jo/Study/blob/3157bb2cb62ef22c48f845945f3ea52bd4d503dc/README.md)
+- [논문 리뷰 👩🏻‍💻](https://github.com/Hyeji-Jo/Study/blob/3157bb2cb62ef22c48f845945f3ea52bd4d503dc/Paper_Reviews/README.md)
 
 
-## 📚  Notion's log  📚
+<br>  
+
+
+## 📚  Notion's Log  📚
  <a href="https://www.notion.so/hyebitstory/9ae0999172b94f54958f998d5a72540d?pvs=4" target="_blank">
    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>  &nbsp; 👈 ~2023년까지의 포트폴리오<br>  
    
