@@ -72,7 +72,7 @@
 
 
 ## 📝  Paper  📝
-| Title |  Date  |  Venue  | Organization | Paper | Etc |
+| Title |  Date  |  Venue  | Organization | Link | Etc |
 |:-----:|:----------:|:----------:|:-------:|:-------:|:-------:|
 | CartoonFaceGAN: A Study on Cartoon Face Generation Using Layer Swap, Distillation based StyleGAN2-ADA | `2022.04` ~ `2022.06` | 한국소프트웨어종합학술대회 |  -  | [paper](https://c11.kr/19ef4) | 학부생 부문 장려상 |
 
@@ -93,6 +93,7 @@
 
 ## 📑 Study Log 📑 
 - [기본 개념 공부 ✍🏻](https://github.com/Hyeji-Jo/Study/blob/3157bb2cb62ef22c48f845945f3ea52bd4d503dc/README.md)
+  - ML/DL, Linear Algebra, DSP ...
 - [논문 리뷰 👩🏻‍💻](https://github.com/Hyeji-Jo/Study/blob/3157bb2cb62ef22c48f845945f3ea52bd4d503dc/Paper_Reviews/README.md)
 
 
