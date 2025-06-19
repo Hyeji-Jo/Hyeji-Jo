@@ -35,7 +35,16 @@
     <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Hyeji-Jo&theme=light&height=400&width=400&bg_color=white&title_color=2f80ed&color=2f80ed&line=2f80ed&point=1074b8&custom_title=jiholee0's%20Contribution%20Graph&area=true&hide_border=true&font_color=2f80ed&font_weight=bold" />
   </a> -->
  
-<br>
+<br>  
+
+## 🎓 Education 🎓
+| Degree | Major | Institution | Dates | Notes |
+|:--------:|:-------:|:-------------:|:-------:|:-------:|
+| M.S.   | 컴퓨터학과 소프트웨어전공 <br> Software | 고려대학교 <br> Korea University | 2025.09 ~ Present | AI LAB - 육동석 교수님 |
+| B.S.   | 빅데이터 ・ 응용통계학전공 <br> Big Data and Applied Statistics | 동국대학교 <br> Dongguk University | 2018.03 ~ 2022.02 | GPA 4.28 / 4.5 |
+
+
+<br>  
 
 ## 🔎  Career  👩🏻‍💻
 | Organization | Role 	| Date |
